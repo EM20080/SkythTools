@@ -85,7 +85,7 @@ Almost every program here works with drag and drop.
 	- A folder containing every .prm.xml file dumped from Sonic Unleashed memory while in Windmill Isle Act 1.
 - collision2fbx
 	- A program that converts a .phy.hkx file to an FBX file for Sonic Unleashed.
-    -  Made by EM.
+    - Made by EM.
 
 ## Sonic Forces
 
