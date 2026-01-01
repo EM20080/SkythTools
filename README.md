@@ -83,6 +83,9 @@ Almost every program here works with drag and drop.
 
 - Parameter Dumps
 	- A folder containing every .prm.xml file dumped from Sonic Unleashed memory while in Windmill Isle Act 1.
+- collision2fbx
+	- A program that converts a .phy.hkx file to an FBX file for Sonic Unleashed.
+    - Made by EM.
 
 ## Sonic Forces
 
@@ -176,4 +179,4 @@ Almost every program here works with drag and drop.
 
 A good amount of tools in this repository heavily make use of DarioSamo's [LibGens](https://github.com/DarioSamo/libgens-sonicglvl).
 
-Everything is made by me unless otherwise specified in the list above.
+Everything is made by me unless otherwise specified in the list above. 
