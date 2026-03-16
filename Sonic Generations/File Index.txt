@@ -21094,10 +21094,10 @@ bb.cpk\sph205.ar.00\mis_obj_OpenBlock_joint.model
 bb.cpk\sph205.ar.00\mis_obj_OpenBlock_pipe.model
 bb.cpk\sph205.ar.00\mis_obj_spotlight_base.model
 bb.cpk\sph205.ar.00\mis_obj_spotlight_head.model
-bb.cpk\sph205.ar.00\mis_obj_spot‚Œight_beam.material
-bb.cpk\sph205.ar.00\mis_obj_spot‚Œight_body.material
-bb.cpk\sph205.ar.00\mis_obj_spot‚Œight_glass.material
-bb.cpk\sph205.ar.00\mis_obj_spot‚Œight_‚Œight.material
+bb.cpk\sph205.ar.00\mis_obj_spotï¿½ï¿½ight_beam.material
+bb.cpk\sph205.ar.00\mis_obj_spotï¿½ï¿½ight_body.material
+bb.cpk\sph205.ar.00\mis_obj_spotï¿½ï¿½ight_glass.material
+bb.cpk\sph205.ar.00\mis_obj_spotï¿½ï¿½ight_ï¿½ï¿½ight.material
 bb.cpk\sph205.ar.00\ef_bo_met_yh2_tail1R.dds
 bb.cpk\sph205.ar.00\ef_bo_sha_yh2_brust4.dds
 bb.cpk\sph205.ar.00\ef_st_bsd_yh2_core2.dds
@@ -21118,8 +21118,8 @@ bb.cpk\sph205.ar.00\mis_obj_spotlight_lens_in_dif_HD.dds
 bb.cpk\sph205.ar.00\mis_obj_spotlight_lens_out_dif_HD.dds
 bb.cpk\sph205.ar.00\mis_obj_spotlight_lens_out_nrm_HD.dds
 bb.cpk\sph205.ar.00\mis_obj_spotlight_lens_out_spc_HD.dds
-bb.cpk\sph205.ar.00\mis_obj_spot‚Œight_light_ref2_HD.dds
-bb.cpk\sph205.ar.00\mis_obj_spot‚Œight_light_ref_HD.dds
+bb.cpk\sph205.ar.00\mis_obj_spotï¿½ï¿½ight_light_ref2_HD.dds
+bb.cpk\sph205.ar.00\mis_obj_spotï¿½ï¿½ight_light_ref_HD.dds
 bb.cpk\sph_cmn.ar.00\sph_metal_tn1_iron02.material
 bb.cpk\sph_cmn.ar.00\sph_metal_yk1_pointfloorA.material
 bb.cpk\sph_cmn.ar.00\sph_metal_yk1_pointfloorA02.material
@@ -60805,7 +60805,7 @@ bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_ConstTexCoord.pixelshader
 bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_ConstTexCoord.wpu
 bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_NoGI.pixelshader
 bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_NoGI.wpu
-bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_NoGI_ConstTexCoord.pixelshader
+                     add.ar.00\LuminescenceV_dpe1@v@_NoGI_ConstTexCoord.pixelshader
 bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_NoGI_ConstTexCoord.wpu
 bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_NoLight.pixelshader
 bb3.cpk\shader_debug_add.ar.00\LuminescenceV_dpe1@v@_NoLight.wpu
